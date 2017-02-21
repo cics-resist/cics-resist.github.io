@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Item 2
+published: false
 permalink: /resources/item-2/
 ---
 

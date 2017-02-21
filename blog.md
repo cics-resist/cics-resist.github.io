@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+published: false
 permalink: /blog/
 ---
 

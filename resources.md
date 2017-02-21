@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Useful Resources
+published: false
 permalink: /resources/
 ---
 # General
