@@ -2,7 +2,7 @@
 title: CICS-Resist
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  We are members of the computer science computing at UMass that are attempting to make change through strategic initiatives. Our opinions are our own and do not reflect any official stance on behalf of the College of Information and Computer Sciences or the University of Massachusetts. 
+  We are members of the computer science community at UMass that are attempting to make change through strategic initiatives. Our opinions are our own and do not reflect any official stance on behalf of the College of Information and Computer Sciences or the University of Massachusetts. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cicsresist.org" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
