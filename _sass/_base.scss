@@ -23,10 +23,7 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-.mission {
-	font-family: $mission-font-family;
-	font-size: 6;
-}
+
 
 
 /**
@@ -220,4 +217,7 @@ text-decoration: none;
 font-family: 'Capita', Georgia, serif;
 }
 
-
+#mission {
+	font-family: $mission-font-family;
+	font-size: 6;
+}
