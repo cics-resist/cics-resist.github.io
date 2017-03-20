@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-{% include image.html url="/images/cics-resist-logo.jpg"  width=300 align="right" %}
+{% include image.html url="/images/cics-resist-logo-small.jpg"  width=300 align="right" %}
 
 
 # Who We Are
