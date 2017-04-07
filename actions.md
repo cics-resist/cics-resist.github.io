@@ -14,8 +14,9 @@ To quantify this effect, we circulated an opinion poll to graduate students in C
 
 {% include image.html url="/images/poll_plots.001.jpeg"  width=250 align="left" %}
 {% include image.html url="/images/poll_plots.002.jpeg"  width=250 align="left" %}
-{% include image.html url="/images/poll_plots.003.jpeg"  width=250 align="left" %}<br />
+{% include image.html url="/images/poll_plots.003.jpeg"  width=250 align="left" %}
 
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 The results of this poll suggest that remaining publicly neutral may have a negative effect on a business's ability to recruit talent. We are mobilizing STEM graduate students around the country to publicly pledge to only work for companies who publicly denounce these orders. 
 
