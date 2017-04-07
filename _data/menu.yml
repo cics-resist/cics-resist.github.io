@@ -1,5 +1,7 @@
 - title: "About Us"
   href: "/about/"
+- title: "Actions"
+  href: "/actions/"
 - title: "Donate"
   href: "http://paypal.me/cicsresist"
   #- title: "Blog"
