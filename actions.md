@@ -10,9 +10,9 @@ In this day and age, businesses, especially those in the tech industry, can not 
 
 To quantify this effect, we circulated an opinion poll to graduate students in CICS. Our objective was to gauge the degree to which the a company's stances on President Donald Trump's January 27th travel ban and the administration's proposed Muslim registry factor into employment decisions. We received 102 responses from a student population of approximately 250 students and the results are summarized below.
 
-{% include image.html url="/images/poll_plots.001.jpeg"  width=300 align="left" %}
-{% include image.html url="/images/poll_plots.002.jpeg"  width=300 align="left" %}
-{% include image.html url="/images/poll_plots.003.jpeg"  width=300 align="left" %}
+{% include image.html url="/images/poll_plots.001.jpeg"  width=200 align="left" %}
+{% include image.html url="/images/poll_plots.002.jpeg"  width=200 align="left" %}
+{% include image.html url="/images/poll_plots.003.jpeg"  width=200 align="left" %}
 
 The results of this poll suggest that remaining publicly neutral may have a negative effect on a business's ability to recruit talent. We are mobilizing STEM graduate students around the country to publicly pledge to only work for companies who publicly denounce these orders. 
 
