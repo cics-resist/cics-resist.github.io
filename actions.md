@@ -21,7 +21,7 @@ To quantify this effect, we circulated an opinion poll to graduate students in C
 The results of this poll suggest that remaining publicly neutral may have a negative effect on a business's ability to recruit talent. We are mobilizing STEM graduate students around the country to publicly pledge to only work for companies who publicly denounce these orders. 
 
 
-## How can I get involved?
+### How can I get involved?
 
 
 Running similar polls at other institutions would help strengthen our message. If you would like to run a similar poll at your institution, please contact us at _cicsresist@gmail.com_.
