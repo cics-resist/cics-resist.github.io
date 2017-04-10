@@ -12,9 +12,11 @@ In this day and age, businesses, especially those in the tech industry, can not 
 To quantify this effect, we circulated an opinion poll to graduate students in CICS. Our objective was to gauge the degree to which a company's stances on President Donald Trump's January 27th travel ban and the administration's proposed Muslim registry factor into employment decisions. We received 102 responses from a student population of approximately 250 students and the results are summarized below.
 
 
-{% include image.html url="/images/poll_plots.001.jpeg"  width=250 align="left" %}
-{% include image.html url="/images/poll_plots.002.jpeg"  width=250 align="left" %}
-{% include image.html url="/images/poll_plots.003.jpeg"  width=250 align="left" %}
+{% include image.html url="/images/poll_plots.001.jpeg"  width=350 align="left" %}
+
+{% include image.html url="/images/poll_plots.002.jpeg"  width=350 align="left" %}
+
+{% include image.html url="/images/poll_plots.003.jpeg"  width=350 align="left" %}
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
