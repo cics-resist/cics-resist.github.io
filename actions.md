@@ -6,11 +6,11 @@ permalink: /actions/
 
 # CICS Opinion Poll
 
-{% include image.html url="/images/poll_plots.001.jpeg"  width=400 align="right" %}
+{% include image.html url="/images/poll_plots.001.jpeg"  width=450 align="right" %}
 
-{% include image.html url="/images/poll_plots.002.jpeg"  width=400 align="right" %}
+{% include image.html url="/images/poll_plots.002.jpeg"  width=450 align="right" %}
 
-{% include image.html url="/images/poll_plots.003.jpeg"  width=400 align="right" %}
+{% include image.html url="/images/poll_plots.003.jpeg"  width=450 align="right" %}
 
 In this day and age, businesses, especially those in the tech industry, can not remain politically or ethically neutral. We believe it is the responsibility of those employed in the tech industry to hold businesses accountable for their political positions. As students, we can exercise this responsibility by taking politics into account when making decisions about where to work. In fact, many students already take the political stances of a company into account. 
 
