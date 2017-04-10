@@ -6,7 +6,7 @@ permalink: /actions/
 
 # CICS Opinion Poll
 
-{% include image.html url="/images/poll_plots.001.jpeg"  width=400 align="right" %}
+{% include image.html url="/images/poll_plots.001.jpeg"  width=400 align="right" %}<br/><br/><br/><br/><br/><br/><br/>
 {% include image.html url="/images/poll_plots.002.jpeg"  width=400 align="right" %}
 {% include image.html url="/images/poll_plots.003.jpeg"  width=400 align="right" %}
 
