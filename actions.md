@@ -13,9 +13,9 @@ To quantify this effect, we circulated an opinion poll to graduate students in C
 
 
 {% include image.html url="/images/poll_plots.001.jpeg"  width=350 align="left" %}
-
+<br />
 {% include image.html url="/images/poll_plots.002.jpeg"  width=350 align="left" %}
-
+<br />
 {% include image.html url="/images/poll_plots.003.jpeg"  width=350 align="left" %}
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
